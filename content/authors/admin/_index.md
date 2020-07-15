@@ -21,8 +21,8 @@ interests:
 - Computational biology
 - Predictive modeling
 - Software engineering
-- Full stack data science 
-name: Abbas Rizvi
+- Machine Learning/AI
+name: Abbas Rizvi, Ph.D.
 organizations:
 - name: ""
   url: ""
@@ -39,7 +39,7 @@ social:
   link: https://twitter.com/aarizvi
 - icon: google-scholar
   icon_pack: ai
-  link: https://scholar.google.com/
+  link: https://scholar.google.com/citations?user=AkjWKAsAAAAJ&hl=en
 - icon: github
   icon_pack: fab
   link: https://github.com/aarizvi
@@ -49,7 +49,8 @@ user_groups:
 - Visitors
 ---
 
-Abbas is a PhD data scientist, computational biologist, and educator. Abbas has strong experience doing data science end-to-end. From data retreival, to data preparation (tidying, reshaping), to exploratory data analysis (visualizations, descriptive statistics), to predictive modeling (machine learning/statistical modeling), to packaging and deployment (using docker as http web services or cloud deployment). Abbas has strong knowledge of molecular and cell biology. Abbas is deeply experienced with the R programming language and given talks at Bioconductor and useR on my open source contributions.
+Abbas is a PhD data scientist, computational biologist, and educator. Abbas has strong experience doing data science end-to-end. He has domain experience in several industries  and topics including molecular/cell biology, pharmaceutical sciences, genomics/
+bionformatics, business, and technology. Abbas is highly skilled with the R programming language and given talks at Bioconductor and useR on his open source contributions. 
 
 
 

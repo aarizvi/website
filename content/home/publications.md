@@ -47,16 +47,27 @@ subtitle = ""
  css_class = ""
 +++
 
-1. Wang J, Clay-Gilmour AI, **Karaesmen E**, Rizvi A, Zhu Q, Yan L, Preus L, Liu S, Wang Y, Griffiths E, Stram DO, Pooler L, Sheng X, Haiman C, Van Den Berg D,
+1. Wang J, Clay-Gilmour AI, Karaesmen E, **Rizvi AA**, Zhu Q, Yan L, Preus L, Liu S, Wang Y, Griffiths E, Stram DO, Pooler L, Sheng X, Haiman C, Van Den Berg D,
 Webb A, Brock G, Spellman S, Pasquini M, McCarthy P, Allan J, Stölzel F, Onel K, Hahn TE, Sucheston-Campbell LE. **Genome-wide association analyses identify variants in IRF4 associated with Acute Myeloid Leukemia and Myelodysplastic Syndrome susceptibility.** *bioRxiv* 773952 (2019). [doi:10.1101/773952](https://doi.org/10.1101/773952)
 
-1. Tang H, Hahn TE, **Karaesmen E**, Rizvi AA, Wang J, Paczesny S, Wang T, Preus L, Zhu Q, Haiman CA, Stram D, Pooler L, Sheng X, Van Den Berg D, Brock G, Webb A, Pasquini MC, McCarthy PL, Spellman SR, Sucheston-Campbell LE. **Validation of genetic associations with acute GVHD and non-relapse mortality in DISCOVeRY-BMT.** *Blood Adv.* - Accepted          
+1. Tang H, Hahn TE, Karaesmen E, **Rizvi AA**, Wang J, Paczesny S, Wang T, Preus L, Zhu Q, Haiman CA, Stram D, Pooler L, Sheng X, Van Den Berg D, Brock G, Webb A, Pasquini MC, McCarthy PL, Spellman SR, Sucheston-Campbell LE. **Validation of genetic associations with acute GVHD and non-relapse mortality in DISCOVeRY-BMT.** *Blood Advances* [doi: 10.1182/bloodadvances.2019000052.](https://doi.org/10.1182/bloodadvances.2019000052.)       
+1. Karaesmen E, Hahn TE, Dile A, **Rizvi AA**, Wang J, Wang T, Haagenson M, Preus L, Zhu Q, Liu Q, Yan L, Liu S, Haiman CA, Stram D, Pooler L, Sheng X, Van Den Berg D, Brock G, Webb A, McCarthy PL, Pasquini MC, Spellman SR, Lee SJ, Paczesny S, Sucheston-Campbell LE **Multiple functional variants in IL1RL1 region are pre-transplant markers for risk of GVHD and infection deaths.** *Blood Advances*  [doi: 10.1182/bloodadvances.2019000075](https://doi.org/10.1182/bloodadvances.2019000075)
 
-1. **Karaesmen E**, Hahn TE, Dile A, Rizvi AA, Wang J, Wang T, Haagenson M, Preus L, Zhu Q, Liu Q, Yan L, Liu S, Haiman CA, Stram D, Pooler L, Sheng X, Van Den Berg D, Brock G, Webb A, McCarthy PL, Pasquini MC, Spellman SR, Lee SJ, Paczesny S, Sucheston-Campbell LE **Multiple functional variants in IL1RL1 region are pre-transplant markers for risk of GVHD and infection deaths.** *Blood Adv.* -  Accepted      
-
-1. Rizvi AA, **Karaesmen E**, Morgan M, Preus L, Wang J, Sovic M, Hahn T, Sucheston-Campbell LE. **gwasurvivr: an R package for genome-wide survival analysis.** *Bioinformatics*. 2018 Nov 5. PMID: 30395168. [doi:10.1093/bioinformatics/bty920](https://doi.org/10.1093/bioinformatics/bty920)
+1. **Rizvi AA**, Karaesmen E, Morgan M, Preus L, Wang J, Sovic M, Hahn T, Sucheston-Campbell LE. **gwasurvivr: an R package for genome-wide survival analysis.** *Bioinformatics*. 2018 Nov 5. PMID: 30395168. [doi:10.1093/bioinformatics/bty920](https://doi.org/10.1093/bioinformatics/bty920)
     
-1. **Karaesmen E**, Rizvi AA, Preus L, McCarthy PL, Pasquini MC, Onel K, Zhu X, Spellman S, Haiman CA, Stram DO, Pooler L, Sheng X, Zhu Q, Yan L, Liu Q, Hu Q, Webb A, Brock G, Clay-Gilmour AI, Battaglia S, Tritchler D, Liu S, Hahn TE, Sucheston-Campbell LE. **Replication and validation of genetic polymorphisms associated with survival after allogeneic blood or marrow transplant.** *Blood* 2017 Sep 28;130(13):1585-1596. PMID: 28811306. [doi:10.1182/blood-2017-05-784637](https://doi.org/10.1182/blood-2017-05-784637)
+1. Karaesmen E, **Rizvi AA**, Preus L, McCarthy PL, Pasquini MC, Onel K, Zhu X, Spellman S, Haiman CA, Stram DO, Pooler L, Sheng X, Zhu Q, Yan L, Liu Q, Hu Q, Webb A, Brock G, Clay-Gilmour AI, Battaglia S, Tritchler D, Liu S, Hahn TE, Sucheston-Campbell LE. **Replication and validation of genetic polymorphisms associated with survival after allogeneic blood or marrow transplant.** *Blood* 2017 Sep 28;130(13):1585-1596. PMID: 28811306. [doi:10.1182/blood-2017-05-784637](https://doi.org/10.1182/blood-2017-05-784637)
 
-1. Clay-Gilmour AI, Hahn T, Preus LM, Onel K, Skol A, Hungate E, Zhu Q, Haiman CA, Stram DO, Pooler L, Sheng X, Yan L, Liu Q, Hu Q, Liu S, Battaglia S, Zhu X, Block AW, Sait SN, **Karaesmen E**, Rizvi AA, Weisdorf DJ, Ambrosone CB, Tritchler D, Ellinghaus E, Ellinghaus D, Stanulla M, Clavel J, Orsi L, Spellman S, Pasquini, MC, McCarthy PL, Sucheston-Campbell LE. **Genetic association with B-cell acute lymphoblastic leukemia in allogeneic transplant patients differs by age and sex.** *Blood Adv*. 2017 Sep 8;1(20):1717-1728. PMID: 28811306. [doi:10.1182/bloodadvances.2017006023](https://doi.org/10.1182/bloodadvances.2017006023)
-    # 
+1. Sucheston-Campbell LE, Clay-Gilmour AI, Barlow WE, Budd GT, Stram DO, Haiman CA, Sheng X, Yan L, Zirpoli G, Yao S, Jiang C, Owzar K, Hershman D, Albain KS, Hayes DF, Moore HC, Hobday TJ, Stewart JA, **Rizvi AA**, Isaacs C, Salim M, Gralow JR, Hortobagyi GN, Livingston RB, Kroetz DL, Ambrosone CB (2017) **Genome-Wide Meta-Analyses Identifies Novel Taxane-Induced Peripheral Neuropathy Associated Loci**. Pharmacogenetics and Genomics. pgen-2017
+
+1. Clay-Gilmour AI, Hahn T, Preus LM, Onel K, Skol A, Hungate E, Zhu Q, Haiman CA, Stram DO, Pooler L, Sheng X, Yan L, Liu Q, Hu Q, Liu S, Battaglia S, Zhu X, Block AW, Sait SN, Karaesmen E, **Rizvi AA**, Weisdorf DJ, Ambrosone CB, Tritchler D, Ellinghaus E, Ellinghaus D, Stanulla M, Clavel J, Orsi L, Spellman S, Pasquini, MC, McCarthy PL, Sucheston-Campbell LE. **Genetic association with B-cell acute lymphoblastic leukemia in allogeneic transplant patients differs by age and sex.** *Blood Advances*. 2017 Sep 8;1(20):1717-1728. PMID: 28811306. [doi:10.1182/bloodadvances.2017006023](https://doi.org/10.1182/bloodadvances.2017006023)
+
+1. DeNies MS, Johnson J, Maliphol AB, Bruno M, **Rizvi AA**, Rustici K, Medler S. **Diet-induced obesity alters skeletal muscle fiber types of male but not female mice**. (2014) Physiological Reports. 
+
+
+
+
+
+
+
+
+
