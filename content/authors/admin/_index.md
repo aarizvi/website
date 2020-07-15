@@ -6,47 +6,50 @@ education:
   courses:
   - course: PhD in Pharmaceutical Sciences
     institution: The Ohio State University
-    year: Expected graduation 2020
-  - course: MSc in Interdisciplinary Natural Sciences
+    year: 2019
+  - course: MS in Cancer Biology (Interdisciplinary)
     institution: University at Buffalo, Roswell Park Cancer Institute
     year: 2015
   - course: MSc in Integrated Systems Biology
     institution: University of Luxembourg
     year: 2015
-  - course: BSc in Biology
-    institution: Hacettepe University, Ankara, Turkey
-    year: 2013
+  - course: BS in Biology
+    institution: SUNY Fredonia
+    year: 2012
 email: ""
 interests:
-- Bioinformatics
-- Genome-wide association studies (GWAS)
-- Cancer Genomics 
-- Pharmacogenomics
-name: Ezgi Karaesmen
+- Computational biology
+- Predictive modeling
+- Software engineering
+- Full stack data science 
+name: Abbas Rizvi
 organizations:
-- name: The Ohio State University
+- name: ""
   url: ""
-role: PhD Candidate
+role: Data Scientist
 social:
 - icon: envelope
   icon_pack: fas
-  link: mailto:karaesmen.1@osu.edu #'#contact'
+  link: mailto:abbas@abbasrizvi.com #'#contact'
 - icon: linkedin
   icon_pack: fab
-  link: https://www.linkedin.com/in/ezgi-karaesmen/
+  link: www.linkedin.com/in/abbas-a-rizvi
 - icon: twitter
   icon_pack: fab
-  link: https://twitter.com/e_Karaesmen
+  link: https://twitter.com/aarizvi
 - icon: google-scholar
   icon_pack: ai
-  link: https://scholar.google.com/citations?hl=en&user=_fL6UnkAAAAJ
+  link: https://scholar.google.com/
 - icon: github
   icon_pack: fab
-  link: https://github.com/karaesmen
+  link: https://github.com/aarizvi
 superuser: true
 user_groups:
 - Researchers
 - Visitors
 ---
 
-Ezgi Karaesmen is a PhD candidate at the Ohio State University College of Pharmacy. She is a genomic data scientist with cancer biology background. Currently, she works with large genomic and clinical datasets in the context of bone marrow transplants. Broadly, she is interested in associations of germline genetic variants with survival events of leukemia patients following their transplant. 
+Abbas is a PhD data scientist, computational biologist, and educator. Abbas has strong experience doing data science end-to-end. From data retreival, to data preparation (tidying, reshaping), to exploratory data analysis (visualizations, descriptive statistics), to predictive modeling (machine learning/statistical modeling), to packaging and deployment (using docker as http web services or cloud deployment). Abbas has strong knowledge of molecular and cell biology. Abbas is deeply experienced with the R programming language and given talks at Bioconductor and useR on my open source contributions.
+
+
+
