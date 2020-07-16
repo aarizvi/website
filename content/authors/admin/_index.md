@@ -28,9 +28,6 @@ organizations:
   url: ""
 role: Data Scientist
 social:
-- icon: envelope
-  icon_pack: fas
-  link: mailto:abbas@abbasrizvi.com #'#contact'
 - icon: linkedin
   icon_pack: fab
   link: www.linkedin.com/in/abbas-a-rizvi
