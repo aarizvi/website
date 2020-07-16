@@ -49,8 +49,7 @@ user_groups:
 - Visitors
 ---
 
-Abbas is a PhD data scientist, computational biologist, and educator. Abbas has strong experience doing data science end-to-end. He has domain experience in several industries  and topics including molecular/cell biology, pharmaceutical sciences, genomics/
-bionformatics, business, and technology. Abbas is highly skilled with the R programming language and given talks at Bioconductor and useR on his open source contributions. 
+Abbas is a PhD data scientist, computational biologist, and educator. Abbas has strong experience doing data science end-to-end. He has domain experience in several industries  and topics including molecular/cell biology, pharmaceutical sciences, genomics, bionformatics, business, and technology. Abbas is highly skilled with the R programming language and given talks at Bioconductor and useR on his open source contributions. 
 
 
 
