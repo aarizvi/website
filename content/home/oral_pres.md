@@ -49,19 +49,18 @@ subtitle = ""
 
 1. **Karaesmen E**. **Exploring Genetic Associations with Bone Marrow Transplant Outcomes** (2019 Dec) American Society of Hematology Annual Meeting, Friday Scientific Workshop on Integrative Epidemiology: Translating Epidemiology and Basic Science to Maximize Clinical Impact, Orlando, FL. 	
 
-1. Sing A, **Karaesmen E**. **How do you change the world? By developing future women leaders** (2019 Nov) Google Developers Group Ohio DevFest, Columbus, OH.
+1. **Rizvi AA**, **Artificial Intelligence Projects in Industry**, 2020. Columbus State University, Columbus, OH, USA.
 
-1. **Karaesmen E**, **Introduction to Data Science with R**. (2019 Mar) Women in Analytics Conference, Columbus OH         
-
-1. **Karaesmen E**, Hahn ET, Dile A, Rizvi AA, Wang J, Wang T, Haagenson MD, Preus L, Zhu Q, Liu Q, Yan L, Liu S, Haiman C, Stram D, Pooler L, Cheng X, Van Den Berg D, Brock G, Webb A, McCarthy PL, Spellman SR, Lee JS, Paczesny S, and Sucheston-Campbell LE. **Multiple Functional Donor Polymorphisms in IL1RL1 region Associate with Death Due to GvHD or Infection after Unrelated Donor Allogeneic Hematopoietic Stem Cell Transplantation (HCT) for AML and MDS.** (2018 Dec) American Society of Hematology 60th Annual Meeting, San Diego, CA.      
+1.
+1. **Rizvi AA**, **Building a career in data science.**. 2020. Columbus State University, Columbus, OH, USA.
     
-1. **Karaesmen E**, **Data Cleaning and Manipulation with R**. (2018 Mar)  Women in Analytics Conference, Columbus OH      
+1. **Rizvi AA**, Gordon P, Nikitin S, Sasso K. **photon: electron meets shiny**. useR!2019. Lightning Talk. Toulouse, France.     
     
-1. **Karaesmen E**, Rizvi AA, Preus L, McCarthy PL, Pasquini M, Singh S, Singh SK, Onel K, Zhu X, Spellman S, Haiman CA, Stram DO, Pooler L, Sheng X, Zhu Q, Yan L, Liu Q, Hu Q, Webb A, Brock G, Clay-Gilmour AI, Battaglia S, Tritchler D, Liu S, Hahn T, Sucheston-Campbell LE. **Genome-Wide Significant Donor Genetic Associations with Death Due to Disease in AML and MDS Patients in the First 1 Year after BMT Are Not Modified By Conditioning Intensity or TBI**. (2018 Feb) 2018 BMT Tandem Meetings, Salt Lake City, UT.    
+1. **Rizvi AA**, Gordon P, Nikitin S, Sasso K. **photon: electron meets shiny**. Bioconductor Conference 2019. Lightning Talk. New York, New York, USA.
     
-1. **Karaesmen E**, **Personalized Medicine and Genomic Data Science**. (2017 Nov) Ohio DevFest, Columbus, OH.       
+1. **Rizvi AA**, Karamesn E, Morgan M, Preus L, Wang J, Sovic M, Hahn T, Sucheston-Campbell Lara. **gwasurvivr: an R package for genome wide survival data**. Bioconductor Conference 2018. Toronto, ON, Canada.      
     
-1. **Karaesmen E**, Rizvi AA, Preus L, McCarthy PL, Pasquini MC, Onel K, Zhu X, Spellman S, Haiman CA, Stram DO, Pooler L, Sheng X, Zhu Q, Yan L, Liu Q, Hu Q, Webb A, Brock G, Clay-Gilmour AI, Battaglia S, Tritchler D, Liu S, Hahn T, Sucheston-Campbell LE. **Replication of Candidate SNP Survival Analyses and Gene-Based Tests of Association with Survival Outcomes after an Unrelated Donor Blood or Marrow Transplant: Results from the DISCOVeRY-BMT Study**. (2016 Dec) American Society of Hematology 58th Annual Meeting, San Diego, CA.
+1. **Karaesmen E**, Rizvi AA, Preus L, McCarthy PL, Pasquini MC, Onel K, Zhu X, Spellman S, Haiman CA, Stram DO, Pooler L, Sheng X, Zhu Q, Yan L, Liu Q, Hu Q, Webb A, Brock G, Clay-Gilmour AI, Battaglia S, Tritchler D, Liu S, Hahn T, Sucheston-Campbell LE. **Genetic Associations with Day +100 Transplant Related Mortality after HLA-matched Unrelated Donor Blood and Marrow Transplantation**. (2018 Feb) BMT Tandem Meetings, Salt Lake City, UT.
     
-1. **Karaesmen E**, Rizvi AA, Preus L, McCarthy PL, Pasquini MC, Onel K, Zhu X, Spellman S, Haiman CA, Stram DO, Pooler L, Sheng X, Zhu Q, Yan L, Liu Q, Hu Q, Webb A, Brock G, Clay-Gilmour AI, Battaglia S, Tritchler D, Liu S, Hahn T, Sucheston-Campbell LE. **Visualizing genomic results for team science: an example from the DISCOVeRY-BMT study**.(2016 Oct) Inaugural The Ohio State University Pharmaceutics Retreat, Columbus, OH.
+1. **Rizvi AA**, Karaesmen E, Preus L, McCarthy PL, Pasquini MC, Onel K, Zhu X, Spellman S, Haiman CA, Stram DO, Pooler L, Sheng X, Zhu Q, Yan L, Liu Q, Hu Q, Webb A, Brock G, Clay-Gilmour AI, Battaglia S, Tritchler D, Liu S, Hahn T, Sucheston-Campbell LE. **Visualizing genomic results for team science: an example from the DISCOVeRY-BMT study**.(2016 Oct) Inaugural The Ohio State University Pharmaceutics Retreat, Columbus, OH.
 
