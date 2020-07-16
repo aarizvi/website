@@ -49,7 +49,7 @@ subtitle = ""
 
 1. Pending RStudio Tidyverse Instructor Certification - Course taken in July 2020
 
-1. **C2ER Council of Economic R Trainig** - June 2020
+1. **C2ER Council of Economic R Training** - June 2020  
 Six introductory R courses organized with Ezgi Karaesmen and Katie Sasso Schafer.
 
 1. **Introduction to R Programming Workshops** - 2018 - Present
