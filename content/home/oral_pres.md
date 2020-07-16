@@ -56,9 +56,9 @@ subtitle = ""
     
 1. **Rizvi AA**, Gordon P, Nikitin S, Sasso K. **photon: electron meets shiny**. Bioconductor Conference 2019. Lightning Talk. New York, New York, USA.
     
-1. **Rizvi AA**, Karamesn E, Morgan M, Preus L, Wang J, Sovic M, Hahn T, Sucheston-Campbell Lara. **gwasurvivr: an R package for genome wide survival data**. Bioconductor Conference 2018. Toronto, ON, Canada.      
+1. **Rizvi AA**, Karaesmen E, Morgan M, Preus L, Wang J, Sovic M, Hahn T, Sucheston-Campbell Lara. **gwasurvivr: an R package for genome wide survival data**. Bioconductor Conference 2018. Toronto, ON, Canada.      
     
-1. **Karaesmen E**, Rizvi AA, Preus L, McCarthy PL, Pasquini MC, Onel K, Zhu X, Spellman S, Haiman CA, Stram DO, Pooler L, Sheng X, Zhu Q, Yan L, Liu Q, Hu Q, Webb A, Brock G, Clay-Gilmour AI, Battaglia S, Tritchler D, Liu S, Hahn T, Sucheston-Campbell LE. **Genetic Associations with Day +100 Transplant Related Mortality after HLA-matched Unrelated Donor Blood and Marrow Transplantation**. (2018 Feb) BMT Tandem Meetings, Salt Lake City, UT.
+1. **Rizvi AA**, Karaesmen E Preus L, McCarthy PL, Pasquini MC, Onel K, Zhu X, Spellman S, Haiman CA, Stram DO, Pooler L, Sheng X, Zhu Q, Yan L, Liu Q, Hu Q, Webb A, Brock G, Clay-Gilmour AI, Battaglia S, Tritchler D, Liu S, Hahn T, Sucheston-Campbell LE. **Genetic Associations with Day +100 Transplant Related Mortality after HLA-matched Unrelated Donor Blood and Marrow Transplantation**. (2018 Feb) BMT Tandem Meetings, Salt Lake City, UT.
     
 1. **Rizvi AA**, Karaesmen E, Preus L, McCarthy PL, Pasquini MC, Onel K, Zhu X, Spellman S, Haiman CA, Stram DO, Pooler L, Sheng X, Zhu Q, Yan L, Liu Q, Hu Q, Webb A, Brock G, Clay-Gilmour AI, Battaglia S, Tritchler D, Liu S, Hahn T, Sucheston-Campbell LE. **Visualizing genomic results for team science: an example from the DISCOVeRY-BMT study**.(2016 Oct) Inaugural The Ohio State University Pharmaceutics Retreat, Columbus, OH.
 
