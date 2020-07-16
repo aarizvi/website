@@ -65,4 +65,3 @@ subtitle = ""
     
 1. **Karaesmen E**, Rizvi AA, Preus L, McCarthy PL, Pasquini MC, Onel K, Zhu X, Spellman S, Haiman CA, Stram DO, Pooler L, Sheng X, Zhu Q, Yan L, Liu Q, Hu Q, Webb A, Brock G, Clay-Gilmour AI, Battaglia S, Tritchler D, Liu S, Hahn T, Sucheston-Campbell LE. **Visualizing genomic results for team science: an example from the DISCOVeRY-BMT study**.(2016 Oct) Inaugural The Ohio State University Pharmaceutics Retreat, Columbus, OH.
 
-  # 

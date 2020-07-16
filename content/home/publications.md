@@ -64,7 +64,7 @@ Webb A, Brock G, Spellman S, Pasquini M, McCarthy P, Allan J, Stölzel F, Onel K
 1. DeNies MS, Johnson J, Maliphol AB, Bruno M, **Rizvi AA**, Rustici K, Medler S. **Diet-induced obesity alters skeletal muscle fiber types of male but not female mice**. (2014) Physiological Reports. 
 
 
-
+  # 
 
 
 
