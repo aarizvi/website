@@ -25,7 +25,7 @@ date_format = "Jan 2006"
   title = "Tidyverse Instructor"
   url = "https://education.rstudio.com/trainers/#intro"
   #certificate_url = "https://education.rstudio.com/trainers/people/karaesmen+ezgi/"
-  date_start = "2019-09-13"
+  date_start = "2020-09-13"
   date_end = ""
   #description = ""
 
