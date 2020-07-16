@@ -47,11 +47,9 @@ subtitle = ""
  css_class = ""
 +++
 
-1. **Karaesmen E**. **Exploring Genetic Associations with Bone Marrow Transplant Outcomes** (2019 Dec) American Society of Hematology Annual Meeting, Friday Scientific Workshop on Integrative Epidemiology: Translating Epidemiology and Basic Science to Maximize Clinical Impact, Orlando, FL. 	
 
 1. **Rizvi AA**, **Artificial Intelligence Projects in Industry**, 2020. Columbus State University, Columbus, OH, USA.
 
-1.
 1. **Rizvi AA**, **Building a career in data science.**. 2020. Columbus State University, Columbus, OH, USA.
     
 1. **Rizvi AA**, Gordon P, Nikitin S, Sasso K. **photon: electron meets shiny**. useR!2019. Lightning Talk. Toulouse, France.     
