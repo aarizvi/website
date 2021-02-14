@@ -15,7 +15,26 @@ subtitle = ""
 #   Add/remove as many `[[experience]]` blocks below as you like.
 #   Required fields are `title`, `company`, and `date_start`.
 #   Leave `date_end` empty if it's your current employer.
+
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
+
+[[experience]]
+  title = "Senior Data Scientist"
+  company = "Tempus Labs, Inc"
+  #company_url = ""
+  location = "Chicago, IL, USA"
+  date_start = "2020-09-28"
+  date_end = ""
+  description = """
+
+Senior data scientist on the Outsights Data Science team. I lead a team of analysts that provides scientific and analytic support to Tempus' pharma partners. 
+
+Responsibilities include:
+  
+  * Conduct clinical and molecular data analysis on Tempus data model
+  * Prepare data delivery for pharma partner data licensing
+  * Project manage and supervise two direct report analysts
+  * Develop internal R packages and tools to enhance reproducibility and production."""
 
 [[experience]]
   title = "AI Engineer/Data Scientist"
@@ -23,7 +42,7 @@ subtitle = ""
   #company_url = ""
   location = "Columbus, OH, USA"
   date_start = "2018-06-04"
-  date_end = ""
+  date_end = "2020-09-25"
   description = """
 
 Designed, built, and deployed artificial intelligence (AI) and machine learning (ML) projects to optimize business processes. 

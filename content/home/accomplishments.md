@@ -22,7 +22,7 @@ date_format = "Jan 2006"
 [[item]]
   organization = "RStudio"
   #organization_url = "https://rstudio.com/"
-  title = "Pending Tidyverse Instructor"
+  title = "Certified Tidyverse Instructor"
   url = "https://education.rstudio.com/trainers/#intro"
   date_start = "2020-09-13"
   date_end = ""
